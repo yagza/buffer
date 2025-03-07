@@ -1,3 +1,5 @@
 https://trivy.dev/v0.18.3/installation/
 install from repo
 
+trivyOptions
+--format template --template '@/usr/local/share/trivy/templates/html.tpl'
